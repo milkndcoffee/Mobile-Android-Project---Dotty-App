@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ketchup">#A13050</color>
+    <color name="mustard">#DFB052</color>
+    <color name="pale_dirt">#A38E8E</color>
+    <color name="white">#F3E6E6</color>
+    <color name="black_ish">#2B2626</color>
+    <color name="dark_bg">#3A3333</color>
+
+    <!-- OLD
+    <array name="dotColors">
+        <item>#F44336</item>
+        <item>#2196F3</item>
+        <item>#4CAF50</item>
+        <item>#FFEB3B</item>
+        <item>#673AB7</item>
+    </array>
+    -->
+    <array name="dotColors">
+        <item>#F06292</item>
+        <item>#64B5F6</item>
+        <item>#4DB6AC</item>
+        <item>#FFB74D</item>
+        <item>#9575CD</item>
+    </array>
+</resources>
